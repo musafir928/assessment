@@ -1,0 +1,7 @@
+ create-react-app   done
+ clean up           done
+ install packages       false
+ create server       
+ create database    
+ create home/login page component  false
+ create home/login user page   false
